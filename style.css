@@ -1,0 +1,11 @@
+@import url (styles/header.css);
+
+:hoot{
+    --cor-de-fundo:  #8d1b5ad5;
+    --cor-cabecalho:   #6c00e7a1;
+}
+
+body{
+     background-color: var(--cor-de-fundo);
+     margin: 0;
+}
